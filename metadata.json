@@ -1,0 +1,8 @@
+{
+  "name": "SkillSwap — Learn by Teaching",
+  "description": "Peer-to-peer student skill exchange where students learn by teaching what they know and mastering what they want.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
